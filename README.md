@@ -1,9 +1,3 @@
-**Coursework Instruction**<br/>
-•	Identify an interesting question related to network science or online social media networks<br/>
-•	Carry out a quantitative analysis.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;o	You may use network analysis tools that are already available online, or you may also programme your own calculation.  
-&nbsp;&nbsp;&nbsp;&nbsp;o	You should focus on the topic/question of your coursework, the quality/depth/rigour of your analysis/evaluation, and the insights obtained from your results. 
-
 **Report Format: 3,000 - 5,000 words**<br/>
 •	Note:  You do not need to include Acknowledgement, lists of figures and tables, and Appendix -- unless you want to.<br/>
 •	Formatting: short sentences/paragraphs are encouraged; each figure or table must have a full caption that explains the meaning of the figure or table.
