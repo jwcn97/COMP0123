@@ -1,7 +1,9 @@
 # FILES TO IGNORE #
 ###################
-/articles/
 /data/
 /images/
-/examples/
-/.ipynb_checkpoints/
+
+# IGNORE CHECKPOINTS #
+######################
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
