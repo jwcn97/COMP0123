@@ -2,7 +2,3 @@
 ###################
 /data/
 /images/
-
-# IGNORE CHECKPOINTS #
-######################
-/.ipynb_checkpoints/*
