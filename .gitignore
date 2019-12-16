@@ -1,0 +1,6 @@
+# FILES TO IGNORE #
+###################
+data/
+articles/
+images/
+examples/
