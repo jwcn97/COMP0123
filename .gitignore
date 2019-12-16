@@ -1,9 +1,7 @@
 # FILES TO IGNORE #
 ###################
+/articles/
 /data/
 /images/
+/examples/
 /.ipynb_checkpoints/
-
-# IGNORE PDF #
-##############
-.pdf
