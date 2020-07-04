@@ -1,11 +1,4 @@
-**Report Format: 3,000 - 5,000 words**<br/>
-•	Note:  You do not need to include Acknowledgement, lists of figures and tables, and Appendix -- unless you want to.<br/>
-•	Formatting: short sentences/paragraphs are encouraged; each figure or table must have a full caption that explains the meaning of the figure or table.
+**Network Analysis on a Unified Human Brain Connectome**<br/>
 
-1.	Which platform/combination of platforms/sequence is the best to spread a new music/album to gain high popularity
-2.	International music flow: how GDP, population and language affect data?
-3.	What are the factors that affect the popularity of an artist? (looking at the growth of followers over time)
-4.	What is the threshold/condition required for a person to pick up a new genre of music? (sizable portion within his personal playlist contains the new genre)
-5.	Usefulness of a recommendation system on asset management portfolio (link exists between stocks/bonds if the same person have had positions on both)
-6.	Rich club coefficient in music artists
-7.	Rich club coefficient in stock market
+•	The optimal range of edge confidence to analyse the consensus connectome is 20% - 50%. A graph with confidence level lower than 20% would be too specific towards a few individuals and not be such a good representation of the whole subject pool. On the other hand, a graph with confidence level higher than 50% is too restrictive to derive any useful insights<br/>
+•	At higher edge confidence level, the network is seen to resemble a power law network, exhibiting scale-free characteristics. At lower edge confidence level, the network is seen to favour a higher functional segregation and integration, exhibiting more small-world characteristics to facilitate quick information transfer
