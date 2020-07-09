@@ -6,13 +6,13 @@
 
 <div>
   <h4>edges present in 20% - 40% of sample pool of connectomes<h4/>
-  <img src="/2020_CHAN_Jingwei/results/brain_img/brain_20.PNG" width="300" />
-  <img src="/2020_CHAN_Jingwei/results/brain_img/brain_30.PNG" width="300" />
-  <img src="/2020_CHAN_Jingwei/results/brain_img/brain_40.PNG" width="300" />
+  <img src="/2020_CHAN_Jingwei/results/brain_img/brain_20.PNG" width="200" />
+  <img src="/2020_CHAN_Jingwei/results/brain_img/brain_30.PNG" width="200" />
+  <img src="/2020_CHAN_Jingwei/results/brain_img/brain_40.PNG" width="200" />
 <div/>
 <div>
   <h4>edges present in 50% - 70% of sample pool of connectomes<h4/>
-  <img src="/2020_CHAN_Jingwei/results/brain_img/brain_50.PNG" width="300" />
-  <img src="/2020_CHAN_Jingwei/results/brain_img/brain_60.PNG" width="300" />
-  <img src="/2020_CHAN_Jingwei/results/brain_img/brain_70.PNG" width="300" />
+  <img src="/2020_CHAN_Jingwei/results/brain_img/brain_50.PNG" width="200" />
+  <img src="/2020_CHAN_Jingwei/results/brain_img/brain_60.PNG" width="200" />
+  <img src="/2020_CHAN_Jingwei/results/brain_img/brain_70.PNG" width="200" />
 <div/>
