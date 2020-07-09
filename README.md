@@ -5,10 +5,10 @@
 •	At higher edge confidence level, the network is seen to resemble a power law network, exhibiting scale-free characteristics. At lower edge confidence level, the network is seen to favour a higher functional segregation and integration, exhibiting more small-world characteristics to facilitate quick information transfer
 
 <div>
-<img src="/2020_CHAN_Jingwei/results/brain_img/brain_20.PNG" width="400" />
-<img src="/2020_CHAN_Jingwei/results/brain_img/brain_30.PNG" width="400" />
-<img src="/2020_CHAN_Jingwei/results/brain_img/brain_40.PNG" width="400" /><br/>
-<img src="/2020_CHAN_Jingwei/results/brain_img/brain_50.PNG" width="400" />
-<img src="/2020_CHAN_Jingwei/results/brain_img/brain_60.PNG" width="400" />
-<img src="/2020_CHAN_Jingwei/results/brain_img/brain_70.PNG" width="400" />
+<img src="/2020_CHAN_Jingwei/results/brain_img/brain_20.PNG" width="300" />
+<img src="/2020_CHAN_Jingwei/results/brain_img/brain_30.PNG" width="300" />
+<img src="/2020_CHAN_Jingwei/results/brain_img/brain_40.PNG" width="300" /><br/>
+<img src="/2020_CHAN_Jingwei/results/brain_img/brain_50.PNG" width="300" />
+<img src="/2020_CHAN_Jingwei/results/brain_img/brain_60.PNG" width="300" />
+<img src="/2020_CHAN_Jingwei/results/brain_img/brain_70.PNG" width="300" />
 <div/>
